@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Evento Gratuito | Oportunidad de Ingresos 2026</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Evento informativo gratuito para conocer un modelo de ingresos con acompañamiento educativo y alto potencial de crecimiento.">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f6f8;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    .highlight {
+      color: #0a7cff;
+      font-weight: bold;
+    }
+    .intro {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .videos iframe {
+      width: 100%;
+      height: 220px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .box {
+      background: #eef6ff;
+      padding: 20px;
+      border-left: 5px solid #0a7cff;
+      margin: 30px 0;
+    }
+    .event {
+      background: #fafafa;
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 30px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .cta {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .cta a {
+      background: #25d366;
+      color: #fff;
+      padding: 18px 30px;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 50px;
+      font-weight: bold;
+      display: inline-block;
+    }
+    .cta a:hover {
+      background: #1ebd5a;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- =========================
+       SECCIÓN INTRO
+  ========================== -->
+  <div class="intro">
+    <h2>Antes de continuar, mira estos 3 videos cortos</h2>
+    <p>No te venden nada. Solo te hacen reflexionar.</p>
+  </div>
+
+  <!-- =========================
+       VIDEOS (EDITABLE)
+  ========================== -->
+  <div class="videos">
+
+    <!-- VIDEO 1 -->
+    <iframe 
+      src="LINK_VIDEO_1_AQUI" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+
+    <!-- VIDEO 2 -->
+    <iframe 
+      src="LINK_VIDEO_2_AQUI" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+
+    <!-- VIDEO 3 -->
+    <iframe 
+      src="LINK_VIDEO_3_AQUI" 
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+
+  </div>
+
+  <!-- =========================
+       HEADLINE
+  ========================== -->
+  <h1>
+    ¿Cómo están planeando sus ingresos miles de personas en más de 
+    <span class="highlight">35 países</span> en 2026…<br>
+    sin invertir dinero ni cargar productos?
+  </h1>
+
+  <p>
+    Existe un modelo de negocio educativo, simple y duplicable, diseñado para
+    personas comunes que buscan ingresos adicionales con acompañamiento real.
+  </p>
+
+  <div class="box">
+    Este espacio es informativo. No se promete dinero ni resultados inmediatos.
+    Aquí conocerás un sistema, una metodología y una comunidad.
+  </div>
+
+  <!-- =========================
+       EVENTO / PROPUESTA
+  ========================== -->
+  <div class="event">
+    <h2>📍 Evento Presencial Gratuito</h2>
+
+    <p>
+      Conoce el modelo de negocio de <strong>MARCA_AQUI</strong> y cómo personas de
+      distintas edades están construyendo ingresos con educación y estructura.
+    </p>
+
+    <ul>
+      <li><strong>📅 Fecha:</strong> FECHA_AQUI</li>
+      <li><strong>🕥 Hora:</strong> HORA_AQUI</li>
+      <li><strong>📌 Lugar:</strong> LUGAR_AQUI</li>
+      <li><strong>☕ Incluye:</strong> Coffee break</li>
+      <li><strong>🎁 Extras:</strong> Regalos para asistentes</li>
+    </ul>
+  </div>
+
+  <!-- =========================
+       PARA QUIÉN
+  ========================== -->
+  <h3>¿Para quién es esta invitación?</h3>
+  <ul>
+    <li>Personas que buscan ingresos adicionales sin inversión</li>
+    <li>Jóvenes que quieren crecer con un sistema probado</li>
+    <li>Adultos que desean ingresos sin límite de edad</li>
+    <li>Personas de 20 a 90 años</li>
+  </ul>
+
+  <!-- =========================
+       CTA FINAL
+  ========================== -->
+  <div class="cta">
+    <p><strong>Cupo limitado · Entrada gratuita</strong></p>
+
+    <a href="WA_LINK_DEL_PARTNER_AQUI" target="_blank">
+      📲 CONFIRMAR MI ASISTENCIA
+    </a>
+
+    <p style="margin-top:15px; font-size:14px;">
+      Atención por: <strong>NOMBRE_DEL_PARTNER</strong>
+    </p>
+  </div>
+
+  <footer>
+    © 2026 | Página informativa | Educación y acompañamiento
+  </footer>
+
+</div>
+
+</body>
+</html>
